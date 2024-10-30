@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>BRENO GUEDES E HANIEL FILIPE</h1>
+
+    <img src= "imagens/pizza.jpg">
 </body>
 </html>
